@@ -1,3 +1,5 @@
+
+Witam witam o droge pytam
 #include <iostream>
 
 int main () {
