@@ -5,3 +5,6 @@
 @Mariusz - Dawid przejrzałeś mnie, pozdrawiam chłopaków i cierpliwego Filipa :D
 >
 dodałem coś do brancha Mariusza
+@Mariusz - Dawid przejrzałeś mnie, pozdrawiam gorących chłopaków i cierpliwego Filipa :D
+
+@Dawid - Szanuje naszego nauczyciela Filipa.
