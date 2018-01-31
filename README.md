@@ -4,3 +4,4 @@
 @Mateusz - Chciałbym sobie kupić nowy samochód, i zrobić licencję pilota.
 @Mariusz - Dawid przejrzałeś mnie, pozdrawiam gorących chłopaków i cierpliwego Filipa :D
 
+@Dawid - Szanuje naszego nauczyciela Filipa.
