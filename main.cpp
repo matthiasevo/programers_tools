@@ -12,6 +12,5 @@ int main () {
 	//Część Dawida
 	std::cout << "Linia nr 26, kierunek: Rubinkowo II" << std::endl;
 	return 0;
->>>>>>> origin/master
 	
 }
